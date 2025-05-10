@@ -113,3 +113,5 @@ if __name__ == "__main__":
             restore(target_ip_str, gateway_ip_str)
             restore(gateway_ip_str, target_ip_str)
         print("[+] ARP tables restoration attempt finished. Exiting.")
+
+## LOL
